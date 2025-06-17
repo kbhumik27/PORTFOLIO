@@ -30,12 +30,7 @@ const Contact = () => {
       detail: "bhumikkapoor27@gmail.com",
       href: "mailto:bhumikkapoor27@gmail.com"
     },
-    {
-      icon: <Phone className="w-6 h-6" />,
-      title: "Phone",
-      detail: "+91-8368126462",
-      href: "tel:+918368126462"
-    },
+   
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Location",
